@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "mint-dark-syntax",
   "theme": "syntax",
-  "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "version": "0.0.1",
+  "description": "Linux Mint syntax theme for Atom",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/pypaut/mint-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
